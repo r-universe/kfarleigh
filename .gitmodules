@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PopGenHelpR"]
 	path = PopGenHelpR
 	url = https://github.com/kfarleigh/popgenhelpr
-	shallow = true
-	registered = true
